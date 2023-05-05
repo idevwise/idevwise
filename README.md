@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&no-frame=false&no-bg=true&margin-w=3&margin-h=4&column=-1&title=Commits,Stars,Repositories,Issues,MultiLanguage,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **idevwise/idevwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
