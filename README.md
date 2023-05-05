@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/devwise"><img src="https://api.daily.dev/devcards/7c660d71c6334fccafc4363a5d2c1129.png?r=38o" width="400" alt="Rahul Kumar's Dev Card"/></a>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
