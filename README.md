@@ -27,5 +27,13 @@ Here are some ideas to get you started:
 - [A Beginner's Guide to DNS](https://devwise.in/a-beginners-guide-to-dns)
 - [Temporal Scoping in JavaScript](https://devwise.in/temporal-scoping)
 <!-- BLOG-POST-LIST:END -->
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idevwise&label=Profile%20views&color=lightgray&style=flat-square" alt="idevwise" /> </p>
+
+### Some Stats
+<!-- Stats Start -->
+<div style="border:1px solid green;"> 
+<span><a href="https://app.daily.dev/devwise"><img src="https://api.daily.dev/devcards/7c660d71c6334fccafc4363a5d2c1129.png?r=5l5" width="200" alt="Rahul Kumar's Dev Card"/></a></span>
+<span>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=idevwise&show_icons=true&locale=en" alt="scc33" /></span>
+<span>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=idevwise&show_icons=true&locale=en&layout=compact" alt="scc33" /></span>
+</div>
+<!-- Stats End -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=idevwise&label=Profile%20views&color=blue&style=for-the-badge" alt="idevwise" /> </p>
