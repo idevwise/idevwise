@@ -1,5 +1,6 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">I'm a full-stack engineer with ❤️ for JavaScript</h3> 
+<h3 align="center">I'm a fullstack engineer with ❤️ for JavaScript</h3> 
 
 <p align="center"><a href='https://twitter.com/idevwise' target='_blank'><img src='https://img.shields.io/twitter/follow/idevwise?logo=Twitter&style=for-the-badge' alt='Follow idevwise'</a></p>
 
