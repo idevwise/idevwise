@@ -6,6 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&no-frame=false&no-bg=true&margin-w=3&margin-h=4&column=-1&title=Commits,Stars,Repositories,Issues,MultiLanguage,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 🌱 I’m currently learning `Python` and `Prompt Engineering using Python`.
 - 💬 Ask me about: JavaScript, Leadership, Career Counselling, System Design, and Full-Stack Development in general.
   
 <!--
